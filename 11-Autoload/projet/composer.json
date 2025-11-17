@@ -1,0 +1,17 @@
+{
+    "name": "hp/projet",
+    "description": "my first composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Projet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nina-penot",
+            "email": "nina.penot@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
